@@ -17,6 +17,7 @@ Computer Science
 * [Code Optimisation Techniques for Lazy Functional Languages](https://nbviewer.jupyter.org/github/grin-compiler/grin/blob/master/papers/boquist.pdf) by __Urban Boquist__.
 * [A modern look at GRIN, an optimizing functional language back end](https://nbviewer.jupyter.org/github/Anabra/grin/blob/65177587f4ea0586801e582f1f3750b2d46351a2/papers/stcs-2019/article/tex/main.pdf) by __Csaba Hruska, Peter David Podlovics and Andor Penzes__.
 * [Compiling without Continuations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/join-points-pldi17.pdf) by __Luke Maurer, Paul Downen, Zena M. Ariola, Simon Peyton Jones__.
+* [A Graph-Based Higher-Order Intermediate Representation](https://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf) by __Roland Leißa, Marcel Koster and Sebastian Hack__.
 
 ### Talks
 
