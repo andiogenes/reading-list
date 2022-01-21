@@ -20,6 +20,7 @@ Computer Science
 * [A Graph-Based Higher-Order Intermediate Representation](https://compilers.cs.uni-saarland.de/papers/lkh15_cgo.pdf) by __Roland Leißa, Marcel Koster and Sebastian Hack__.
 * [An Introduction to Algebraic Effects and Handlers](https://www.eff-lang.org/handlers-tutorial.pdf) by __Matija Pretnar__.
 * [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714) by __Alessandro Cheli__.
+* [Beyond Notations: Hygienic Macro Expansion for Theorem Proving Languages](https://arxiv.org/abs/2001.10490) by __Sebastian Ullrich, Leonardo de Moura__.
 
 ### Talks
 
