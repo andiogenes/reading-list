@@ -9,7 +9,7 @@ Master's thesis Research
 * [Exploiting prolific types for memory management and optimizations](https://dl.acm.org/doi/10.1145/503272.503300)
 * [Barriers: friend or foe?](https://dl.acm.org/doi/10.1145/1029873.1029891)
 * [Write barrier elision for concurrent garbage collectors](https://dl.acm.org/doi/10.1145/1029873.1029876)
-* [Compositional pointer and escape analysis for Java programs](Compositional pointer and escape analysis for Java programs)
+* [Compositional pointer and escape analysis for Java programs](https://dl.acm.org/doi/10.1145/320385.320400)
 * [Write barrier removal by static analysis](https://dl.acm.org/doi/10.1145/582419.582439)
 
 Computer Science
