@@ -11,6 +11,7 @@ Master's thesis Research
 * [Write barrier elision for concurrent garbage collectors](https://dl.acm.org/doi/10.1145/1029873.1029876)
 * [Compositional pointer and escape analysis for Java programs](https://dl.acm.org/doi/10.1145/320385.320400)
 * [Write barrier removal by static analysis](https://dl.acm.org/doi/10.1145/582419.582439)
+* [Barrier techniques for incremental tracing](https://dl.acm.org/doi/10.1145/301589.286863)
 
 Computer Science
 ----------------
