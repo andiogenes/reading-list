@@ -12,6 +12,7 @@ Master's thesis Research
 * [Compositional pointer and escape analysis for Java programs](https://dl.acm.org/doi/10.1145/320385.320400)
 * [Write barrier removal by static analysis](https://dl.acm.org/doi/10.1145/582419.582439)
 * [Barrier techniques for incremental tracing](https://dl.acm.org/doi/10.1145/301589.286863)
+* [Compile-Time Concurrent Marking Write Barrier Removal](https://dl.acm.org/doi/10.1109/CGO.2005.12)
 
 Computer Science
 ----------------
