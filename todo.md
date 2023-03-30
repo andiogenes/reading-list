@@ -19,6 +19,7 @@ Master's thesis Research
 * [Mostly Parallel Garbage Collection](https://dl.acm.org/doi/10.1145/113445.113459)
 * [A concurrent, generational garbage collector for a multithreaded implementation of ML](https://dl.acm.org/doi/10.1145/158511.158611)
 * [Portable, unobtrusive garbage collection for multiprocessor systems](https://dl.acm.org/doi/10.1145/174675.174673)
+* [Eliminating Read Barriers through Procrastination and Cleanliness](https://dl.acm.org/doi/abs/10.1145/2258996.2259005)
 
 Computer Science
 ----------------
