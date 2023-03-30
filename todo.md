@@ -14,6 +14,9 @@ Master's thesis Research
 * [Barrier techniques for incremental tracing](https://dl.acm.org/doi/10.1145/301589.286863)
 * [Compile-Time Concurrent Marking Write Barrier Removal](https://dl.acm.org/doi/10.1109/CGO.2005.12)
 
+* [A comparative performance evaluation of write barrier implementations](https://dl.acm.org/doi/10.1145/141937.141946)
+* [Barrier Methods for Garbage Collection](https://www.researchgate.net/publication/2773436_Barrier_Methods_for_Garbage_Collection)
+
 Computer Science
 ----------------
 
