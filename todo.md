@@ -15,6 +15,10 @@ Master's thesis Research
 * [Compile-Time Concurrent Marking Write Barrier Removal](https://dl.acm.org/doi/10.1109/CGO.2005.12)
 * [A comparative performance evaluation of write barrier implementations](https://dl.acm.org/doi/10.1145/141937.141946)
 * [Barrier Methods for Garbage Collection](https://www.researchgate.net/publication/2773436_Barrier_Methods_for_Garbage_Collection)
+* [Real-time Concurrent Collection on Stock Multiprocessors](https://dl.acm.org/doi/10.1145/960116.53992)
+* [Mostly Parallel Garbage Collection](https://dl.acm.org/doi/10.1145/113445.113459)
+* [A concurrent, generational garbage collector for a multithreaded implementation of ML](https://dl.acm.org/doi/10.1145/158511.158611)
+* [Portable, unobtrusive garbage collection for multiprocessor systems](https://dl.acm.org/doi/10.1145/174675.174673)
 
 Computer Science
 ----------------
