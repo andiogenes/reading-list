@@ -21,6 +21,10 @@ Master's thesis Research
 * [Portable, unobtrusive garbage collection for multiprocessor systems](https://dl.acm.org/doi/10.1145/174675.174673)
 * [Eliminating Read Barriers through Procrastination and Cleanliness](https://dl.acm.org/doi/abs/10.1145/2258996.2259005)
 * [Removing Garbage Collector Synchronisation](https://kar.kent.ac.uk/14096/)
+* A Practical Getaway: Applications of Escape Analysis in Embedded Real-Time Systems
+* PC Based Escape Analysis in the Java Virtual Machine
+* Optimizations in a Private Nursery-based Garbage Collector
+* Design and Implementation of an Escape Analysis in the Context of Safety-Critical Embedded Systems
 
 Computer Science
 ----------------
