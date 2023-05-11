@@ -47,6 +47,7 @@ Computer Science
 * [An Introduction to Algebraic Effects and Handlers](https://www.eff-lang.org/handlers-tutorial.pdf) by __Matija Pretnar__.
 * [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714) by __Alessandro Cheli__.
 * [Beyond Notations: Hygienic Macro Expansion for Theorem Proving Languages](https://arxiv.org/abs/2001.10490) by __Sebastian Ullrich, Leonardo de Moura__.
+* [Supercompilation: Ideas and Methods](https://themonadreader.files.wordpress.com/2014/04/super-final.pdf) by __Ilya Klyuchnikov and Dimitur Krustev__.
 
 ### Talks
 
