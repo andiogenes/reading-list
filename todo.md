@@ -34,6 +34,7 @@ Computer Science
 * [Essentials of Compilation. The Incremental, Nano-Pass Approach](https://github.com/IUCompilerCourse/Essentials-of-Compilation/tree/apt-ocaml) by __Jeremy G. Siek.__ (2021, OCaml version)
 * [Pro .NET Benchmarking](https://aakinshin.net/ru/prodotnetbenchmarking/) by __Andrey Akinshin__.
 * [Computational Semantics with Functional Programming](https://staff.fnwi.uva.nl/d.j.n.vaneijck2/cs/) by __Jan van Eijck__ (👀), __Christina Unger__.
+* [Basic Category Theory for Computer Scientists] by __Benhamin C. Pierce__.
 
 ### Papers
 
