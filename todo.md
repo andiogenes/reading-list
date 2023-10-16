@@ -1,7 +1,7 @@
 TODO
 ====
 
-Master's thesis Research
+PhD thesis Research
 ------------------------
 
 ### Papers
