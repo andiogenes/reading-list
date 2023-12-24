@@ -25,6 +25,7 @@ PhD thesis Research
 * PC Based Escape Analysis in the Java Virtual Machine
 * Optimizations in a Private Nursery-based Garbage Collector
 * Design and Implementation of an Escape Analysis in the Context of Safety-Critical Embedded Systems
+* [On the complexity of escape analysis](https://dl.acm.org/doi/pdf/10.1145/263699.263750)
 
 Computer Science
 ----------------
