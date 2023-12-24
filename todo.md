@@ -26,6 +26,7 @@ PhD thesis Research
 * Optimizations in a Private Nursery-based Garbage Collector
 * Design and Implementation of an Escape Analysis in the Context of Safety-Critical Embedded Systems
 * [On the complexity of escape analysis](https://dl.acm.org/doi/pdf/10.1145/263699.263750)
+* [Deriving Escape Analysis by Abstract Interpretation: Proofs of results](https://arxiv.org/pdf/cs/0607101.pdf)
 
 Computer Science
 ----------------
