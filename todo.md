@@ -52,6 +52,7 @@ Computer Science
 * [Automated Code Optimization with E-Graphs](https://arxiv.org/abs/2112.14714) by __Alessandro Cheli__.
 * [Beyond Notations: Hygienic Macro Expansion for Theorem Proving Languages](https://arxiv.org/abs/2001.10490) by __Sebastian Ullrich, Leonardo de Moura__.
 * [Supercompilation: Ideas and Methods](https://themonadreader.files.wordpress.com/2014/04/super-final.pdf) by __Ilya Klyuchnikov and Dimitur Krustev__.
+* [Towards Equal Rights for Higher-kinded Types](https://web.archive.org/web/20091229052347id_/http://www.cs.kuleuven.be/%7Eadriaan/files/higher.pdf) by __Adriaan Moors, Frank Piessens and Martin Odersky__.
 
 ### Talks
 
